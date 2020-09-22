@@ -6,5 +6,6 @@ package primitive.dictionary;
 public class PrimitiveDictionary {
 	public static void main(String[] args) {
 		System.out.print("conga");
+		System.out.println("conviet");
 	}
 }
